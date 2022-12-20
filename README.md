@@ -1,6 +1,6 @@
 
-Redshift
-========
+Redshift :)
+===========
 
 Redshift adjusts the color temperature of your screen according to
 your surroundings. This may help your eyes hurt less if you are
